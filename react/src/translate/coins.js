@@ -57,6 +57,7 @@ const coins = {
     HUSH: 'Hush',
     ZEXO: 'Zaddex',
     LABS: 'KMDLabs',
+    GRMS: 'GRMS',
   },
   CRYPTO: {
     STRAT: 'Stratis',
